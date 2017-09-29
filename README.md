@@ -4,6 +4,11 @@ This tool was developed as part of a thesis for a Master’s degree. The thesis 
 
 Main Files:
 -----------
-msc_CollectData.py: Main activation  file
+msc_CollectData.py: Main activation file
+
 msc_ParamCleansing.py: Functions used by msc_CollectData.py
-msc_UseOpenWPM.py : Function used by msc_CollectData.py. Require OpenWPM library
+msc_UseOpenWPM.py: Function used by msc_CollectData.py. Require OpenWPM library
+
+Supporting Documents:
+-----------
+msc_poc.py: Proof of concept code used within thesis
