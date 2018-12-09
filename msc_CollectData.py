@@ -6,7 +6,7 @@ Description:    Code uses OpenWPM package to extract HTTPS responses from
                 selected set of URLs (defined in GetListOfSiteURLsToExtract)
                 and then splits the resulting data into individual URL 
                 parameters to allow it to be sorted and classified for use
-                in a thesis masters assignment
+                in a thesis masters assignment 
 """
 import msc_UseOpenWPM
 from msc_ParamCleansing import open_db_conn
