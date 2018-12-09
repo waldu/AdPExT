@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on:     Sun May 21 05:09:40 2017
-Author:         Waldu Woensdregt
+Author:         Waldu Woensdregt 
 Description:    Functions used by msc_CollectData.py
 """
 import sqlite3
