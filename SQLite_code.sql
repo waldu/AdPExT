@@ -27,7 +27,7 @@ FROM http_responses resp
 			FROM http_responses
 			WHERE crawl_id = 75
 		) TopURL_SubDomains ON TopURL_SubDomains.topurl = resp.top_url
-WHERE crawl_id = 75
+WHERE crawl_id = 75 
 GROUP BY  TopURL_subdomain,sub_domain
 ORDER BY TopURL_subdomain,sub_domain  
  
