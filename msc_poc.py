@@ -1,6 +1,6 @@
 """
 Amended on:     Sat 21 May 2017
-Amended by:         Waldu Woensdregt
+Amended by:     Waldu Woensdregt
 Description:    This file was amended from the OpenWPM "demo.py" code file
                 to serve as a proof of concept for the master research
                 data collection objective which requires third-party 
